@@ -1,0 +1,23 @@
+{
+  "name": "wikiquotesbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wqbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsenkhanpour/wikiquotesbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsenkhanpour/wikiquotesbot/issues"
+  },
+  "homepage": "https://github.com/mohsenkhanpour/wikiquotesbot#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "wikiquotesjs": "^0.6.6"
+  }
+}
