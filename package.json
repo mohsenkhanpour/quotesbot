@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mohsenkhanpour/wikiquotesbot#readme",
   "dependencies": {
     "dotenv": "^4.0.0",
+    "telebot": "^1.2.3",
     "wikiquotesjs": "^0.6.6"
   }
 }
