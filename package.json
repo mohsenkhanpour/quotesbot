@@ -1,7 +1,7 @@
 {
-  "name": "wikiquotesbot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "quotesbot",
+  "version": "1.0.1",
+  "description": "Telegram quote bot",
   "main": "wqbot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/mohsenkhanpour/wikiquotesbot.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mohsen Khanpour",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mohsenkhanpour/wikiquotesbot/issues"
   },
@@ -21,5 +21,11 @@
     "goodreads-quote-scraper": "^1.0.4",
     "telebot": "^1.2.3",
     "wikiquotesjs": "^0.6.6"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "quote",
+    "telegram",
+    "bot"
+  ]
 }
