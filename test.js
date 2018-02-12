@@ -1,3 +1,3 @@
 const goodreads = require('goodreads-quote-scraper');
-
-goodreads('george carlin', 2, false);
+goodreads('Jim Morrison', 2, false);
+console.log(finalArray);  
