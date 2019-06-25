@@ -1,2 +1,2 @@
 const goodreads = require('goodreads-quote-scraper');
-goodreads('Jim Morrison', 2, false);
+goodreads('Paul Bowles', 10, false);
