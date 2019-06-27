@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/mohsenkhanpour/wikiquotesbot#readme",
   "dependencies": {
-    "dotenv": "^5.0.0",
+    "dotenv": "^8.0.0",
     "goodreads-quote-scraper": "^1.0.4",
-    "telebot": "^1.2.3",
+    "telebot": "^1.2.6",
     "wikiquotesjs": "^0.6.6"
   },
   "devDependencies": {},
